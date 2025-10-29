@@ -4,7 +4,7 @@ import "fmt"
 
 const NMAX int = 100
 
-type Subscription struct {
+type Subscription struct {// Hello my name is Ja'far NIM 103032400109
 	namaLangganan string
 	biaya         int
 }
